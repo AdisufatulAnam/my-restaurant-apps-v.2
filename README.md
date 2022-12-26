@@ -6,7 +6,6 @@ yang mempunyai beberapa fitur.
 2.review restorant <br>
 3.menambahkan restorant favorit.<br>
 4.menghapus restorant favorit<br>
-5.testing otomatis.<br>
 ## cara menjalakan projek ini : 
 download projek ini jalankan perintah 
 ### npm install
