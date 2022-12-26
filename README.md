@@ -1,4 +1,4 @@
-# my-restaurant-apps-v.3
+# my-restaurant-apps-v.2
 projek web restorant PWA dengan mengunakan api dari dicoding,projek ini merupakan  projek ke dua dari submission dari kelas menjadi front end web developer expert.
 yang mempunyai beberapa fitur.
 ## fitur utama
@@ -13,8 +13,8 @@ jalankan perintah berikut untuk proses developent
 ### npm run start-dev
 jalankan perintah berikut untuk build projek
 ### npm run build
-### link projek my-restorant-apps-v.2
-https://github.com/AdisufatulAnam/my-restaurant-apps-v.2
+### link projek my-restorant-apps-v.1
+https://github.com/AdisufatulAnam/my-restaurant-apps-v.1
 ### link projek my-restorant-apps-v.3
 https://github.com/AdisufatulAnam/my-restaurant-apps-v.3
 
