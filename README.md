@@ -17,5 +17,7 @@ jalankan perintah berikut untuk build projek
 https://github.com/AdisufatulAnam/my-restaurant-apps-v.1
 ### link projek my-restorant-apps-v.3
 https://github.com/AdisufatulAnam/my-restaurant-apps-v.3
+### link sertifikat 
+https://www.dicoding.com/certificates/EYX49JY7WPDL
 
 
